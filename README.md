@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PUGALENTHI C
+- 👋 Hi, I’m PUGALENTHI C
 - 👀 I’m interested in :JAVA.SQL.DS.CPROGRAMING
 - 🌱 I’m currently learning :SQL.DS
 - 💞️ I’m looking to collaborate on: SOFTWARE DEVELOPER COMPANY
